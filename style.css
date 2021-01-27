@@ -1,0 +1,24 @@
+body{
+  text-align: center;  
+}
+main{
+    width: 600px;
+    border: solid red 5px;
+    padding: 30px;
+    background: beige;
+}
+header{
+    color:white;
+    background:#333;
+    margin-bottom: 25px;
+    /*padding: 25px 0;*/
+    padding-top:25px;
+    padding-bottom: 25px;
+}
+footer{
+    padding-top:25px;
+    padding-bottom: 25px;
+    margin-top:25px;
+    color: white;
+    background:#333;
+}
